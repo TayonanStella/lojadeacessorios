@@ -1,0 +1,1 @@
+{"notifications":{"total":0,"forms":0,"products":0,"articles":0,"blog":0,"mailingList":0,"events":0,"jobs":0,"pricing":0,"donate":0,"scheduleBooking":0,"restaurantReservations":0,"foodDelivery":0,"eCommerce":0,"eCommerce_review":0,"eCommerce_backInStock":0,"onlineCourses":0},"sale":{"saleReducedNUM":40,"saleExpiry":"2024-10-30 22:06:12"},"packageNUM":"1","unPublishChanges":"0"}
